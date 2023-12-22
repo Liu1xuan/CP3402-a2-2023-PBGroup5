@@ -5,11 +5,11 @@ Yuxuan Liu 14190650
 
 Zhanzhi Xu 14302020
 
-Haoran Juan
+Haoran Juan 14341324
 
-Entong Zhao
+Entong Zhao 14074250
 
-Jiayan Feng
+Jiayan Feng 14154574
 
 Clear Goals and Objectives: Ensure all group members understand the group's goals and the tasks to be accomplished.
 
