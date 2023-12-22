@@ -2,9 +2,13 @@
 
 ## Group 5 Members:
 Yuxuan Liu
-Zhanzhi Xu
+
+Zhanzhi Xu 14302020
+
 Haoran Juan
+
 Entong Zhao
+
 Jiayan Feng
 
 Clear Goals and Objectives: Ensure all group members understand the group's goals and the tasks to be accomplished.
