@@ -1,32 +1,68 @@
-# CP3402-a2-2023-PBGroup5
+James Cook University Website Development README
+Group 5 SP53 CP3402 Content Management Systems
 
-## Group 5 Members:
-Yuxuan Liu 14190650
+### Overview
 
-Zhanzhi Xu 14302020
+The documentation for the project will focus on providing an industry-style README that allows new developers to continue developing (WordPress theme details) and deploying (publishing workflows) the site.
 
-Haoran Juan 14341324
+### a2.html
+This file contains our team's Names & Profiles, Goal/s, Project Links, Local Environments, References
+* <a href="https://github.com/Liu1xuan/CP3402-a2-2023-PBGroup5/blob/main/a2.html" target="_blank">a2.html</a>
 
-Entong Zhao 14074250
+### Local Development Environment
+The website was developed using XAMPP v3.3.0 as the local server environment with WordPress 6.4.2 installed on it.
 
-Jiayan Feng 14154574
+Installation
+---------------
 
-Clear Goals and Objectives: Ensure all group members understand the group's goals and the tasks to be accomplished.
+### Prerequisites:
 
-Division of Labor: Assign tasks fairly and reasonably based on each member's skills and interests.
+* XAMPP v3.3.0 
+* WordPress 6.4.2
+* Visual Studio Code
 
-Communication: Maintain frequent and effective communication to ensure information sharing and avoid misunderstandings.
+### Setup:
 
-Respect and Listening: Respect and listen to each member's opinions, encouraging diversity and innovative thinking.
+* Extract the WordPress 6.4.2.. ZIP archive to the htdocs directory in your XAMPP installation.
+* Configure XAMPP to run the MySQL database and Apache server.
+* Access the WordPress installation through https://localhost/wordpress-6.4.2/wordpress/ and complete the setup.
+* Activate the custom theme from the WordPress admin dashboard under Appearance > Themes.
 
-Regular Meetings: Hold regular meetings to discuss progress and address any issues encountered.
+* For this project, access the staging/ live site through WP admin and export the backup through your choice of plug-in and import it to your WP environment.
 
-Problem Solving: Actively seek solutions to problems instead of blaming others.
+### Theme Details
 
-Shared Responsibility: Group members should collectively bear the responsibility for success and failure.
+### Workflow for Development
 
-Adherence to Timelines: Respect the project's timeline and deadlines to ensure tasks are completed on time.
 
-Maintain a Positive Attitude: Keep a positive and supportive attitude to encourage team members.
+### Deployment
 
-Continuous Assessment and Feedback: Conduct regular evaluations, provide and accept feedback to continually improve the team's work efficiency and effectiveness.
+
+### Project Documentation
+---------------
+
+### Goals
+* Deliver a product that serves as an effective digital front door that welcomes, informs, and converts visitors through a high-quality online experience that mirrors the institution's respectable standards.
+* Increase conversion rate
+* Increase acceptance rate: 5%
+* Increase open house attendance rate: 10%
+
+### Deployment
+
+#### Conclusion
+
+### Workflow
+------------------------------------------------------------------------------------------
+Trello -> Slack -> XAMPP -> Wordpress -> VSCode -> Github -> Staging -> Siteground 
+------------------------------------------------------------------------------------------
+
+  
+### Team Management Links
+* [GitHub](https://github.com/Liu1xuan/CP3402-a2-2023-PBGroup5) 
+* [Slack](https://app.slack.com/client/T06B3PBHUDU/C06B7FASBUM) 
+* [Trello](https://trello.com/b/lMVxzQ6v/group-five) 
+
+#### Team Management reference material
+![slack](https://github.com/Liu1xuan/CP3402-a2-2023-PBGroup5/blob/main/Screenshot%20for%20A2/slack.png)
+![trello](https://github.com/Liu1xuan/CP3402-a2-2023-PBGroup5/blob/main/Screenshot%20for%20A2/Trello.png)
+
