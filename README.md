@@ -36,8 +36,11 @@ Installation
 
 ### Theme Details
 Name: School Open House
+
 Base: Underscores
+
 Main Technologies: PHP, JavaScript, HTML, CSS, MySQL
+
 Custom Theme Files:
 style.css: The main stylesheet.
 functions.php: Theme functions and WordPress hooks.
