@@ -21,7 +21,7 @@ Installation
 * XAMPP v3.3.0 
 * WordPress 6.4.2
 * Visual Studio Code
-* Oracle VM VirtualBox vvv
+* Oracle VM VirtualBox VVV v.3.12
 ![vvv](https://github.com/Liu1xuan/CP3402-a2-2023-PBGroup5/blob/main/Screenshot%20for%20A2/vvv_xampp.png)
 ![vvv](https://github.com/Liu1xuan/CP3402-a2-2023-PBGroup5/blob/main/Screenshot%20for%20A2/vvv.png)
 
