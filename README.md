@@ -3,7 +3,7 @@ Group 5 SP53 CP3402 Content Management Systems
 
 ### Overview
 
-The documentation for the project will focus on providing an industry-style README that allows new developers to continue developing (WordPress theme details) and deploying (publishing workflows) the site.
+This document will provide all necessary information for subsequent developers (you can think of it as a template). This website was created using WordPress to promote openhouse related information.
 
 ### a2.html
 This file contains our team's Names & Profiles, Goal/s, Project Links, Local Environments, References
