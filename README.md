@@ -49,7 +49,11 @@ single.php: Template for single posts.
 archive.php: Archive template.
 Additional custom templates and partials are included within the theme directory.
 ### Workflow for Development
-
+1. Pull the Latest Code: Team members must always have the latest version of the code to prevent duplication and meaningless work.
+2. Develop Locally: Local modifications can be made in your XAMPP environment.
+3. Test Changes: Extensively test your modifications in the neighborhood.
+4. Commit: Every change must be committed to tell others what has been changed to improve work efficiency.
+5. Push: Push your all the things to the remote repository.
 
 ### Deployment
 
