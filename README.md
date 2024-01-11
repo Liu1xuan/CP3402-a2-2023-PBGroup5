@@ -10,7 +10,7 @@ This file contains our team's Names & Profiles, Goal/s, Project Links, Local Env
 * <a href="https://github.com/Liu1xuan/CP3402-a2-2023-PBGroup5/blob/main/a2.html" target="_blank">a2.html</a>
 
 ### Local Development Environment
-The website was developed using XAMPP v3.3.0 as the local server environment with WordPress 6.4.2 installed on it.
+The website was developed using XAMPP v3.3.0 and vvv as the local server environment with WordPress 6.4.2 installed on it.
 
 Installation
 ---------------
