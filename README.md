@@ -23,6 +23,7 @@ Installation
 * Visual Studio Code
 * Oracle VM VirtualBox vvv
 ![vvv](https://github.com/Liu1xuan/CP3402-a2-2023-PBGroup5/blob/main/Screenshot%20for%20A2/vvv_xampp.png)
+![vvv](https://github.com/Liu1xuan/CP3402-a2-2023-PBGroup5/blob/main/Screenshot%20for%20A2/vvv_xampp.png)
 ### Setup:
 
 * Extract the WordPress 6.4.2.. ZIP archive to the htdocs directory in your XAMPP installation.
