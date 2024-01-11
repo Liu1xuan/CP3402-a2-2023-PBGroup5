@@ -7,7 +7,7 @@ This document will provide all necessary information for subsequent developers (
 
 ### a2.html
 This file contains our team's Names & Profiles, Goal/s, Project Links, Local Environments, References
-![vvv](https://github.com/Liu1xuan/CP3402-a2-2023-PBGroup5/blob/main/Screenshot%20for%20A2/vvv_xampp.png)
+
 
 ### Local Development Environment
 The website was developed using XAMPP v3.3.0 and vvv as the local server environment with WordPress 6.4.2 installed on it.
@@ -21,7 +21,8 @@ Installation
 * XAMPP v3.3.0 
 * WordPress 6.4.2
 * Visual Studio Code
-
+* Oracle VM VirtualBox vvv
+![vvv](https://github.com/Liu1xuan/CP3402-a2-2023-PBGroup5/blob/main/Screenshot%20for%20A2/vvv_xampp.png)
 ### Setup:
 
 * Extract the WordPress 6.4.2.. ZIP archive to the htdocs directory in your XAMPP installation.
