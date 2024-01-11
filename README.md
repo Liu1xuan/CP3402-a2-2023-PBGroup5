@@ -33,7 +33,19 @@ Installation
 * For this project, access the staging/ live site through WP admin and export the backup through your choice of plug-in and import it to your WP environment.
 
 ### Theme Details
-
+Name: School Open House
+Base: Underscores
+Main Technologies: PHP, JavaScript, HTML, CSS, MySQL
+Custom Theme Files:
+style.css: The main stylesheet.
+functions.php: Theme functions and WordPress hooks.
+header.php: The header template.
+footer.php: The footer template.
+index.php: The main template file.
+page.php: Template for individual pages.
+single.php: Template for single posts.
+archive.php: Archive template.
+Additional custom templates and partials are included within the theme directory.
 ### Workflow for Development
 
 
