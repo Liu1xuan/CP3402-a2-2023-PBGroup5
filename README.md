@@ -137,6 +137,12 @@ Because we had a student account, a six-month free trial period, and the conveni
 ### Workflow
 ------------------------------------------------------------------------------------------
 Trello -> Slack -> XAMPP -> Wordpress -> VSCode -> Github -> Staging -> Siteground 
+
+### Version Control (Screenshots)
+| Version 1 | Version 2 | Version 3 |
+|:----------------------:|:---------------------------:|:---------------------:|
+| <img src="https://github.com/Liu1xuan/CP3402-a2-2023-PBGroup5/blob/main/Screenshot%20for%20A2/Screen%20shot%20for%20version1.png" width="100px" /> | <img src="https://github.com/Liu1xuan/CP3402-a2-2023-PBGroup5/blob/main/Screenshot%20for%20A2/screen%20shot%20for%20version2-2.png" width="100px" /> | <img src="https://github.com/Liu1xuan/CP3402-a2-2023-PBGroup5/blob/main/Screenshot%20for%20A2/Screen%20shot%20for%20version3.png" width="100px" /> |
+| [Version 1](https://github.com/Liu1xuan/CP3402-a2-2023-PBGroup5/tree/main/Version%201) | [Version 2](https://github.com/Liu1xuan/CP3402-a2-2023-PBGroup5/tree/main/Version%202) | [Version 3](https://github.com/Liu1xuan/CP3402-a2-2023-PBGroup5/tree/main/Version%203) |
 ------------------------------------------------------------------------------------------
 
   
