@@ -66,17 +66,20 @@ Step 1: Install the All-in-One WP Migration Plugin on the Local Site
 * Go to "Plugins" -> "Add New."
 * Search for "All-in-One WP Migration."
 * Install and activate the "All-in-One WP Migration" plugin.
+
 Step 2: Export Data from the Local Site
 * In the WordPress admin dashboard, go to "All-in-One WP Migration."
 * Hover over the menu item and select "Export."
 * Choose "Export to File" in the export options.
 * The plugin will start packaging your entire WordPress site and generate a .wpress file.
+
 Step 3: Import the Local Site to SiteGround
 * Log in to SiteGround's cPanel (or your hosting panel).
 * Find and open the "MySQL Database" tool, and create a new database and user. Note the database name, username, and password.
 * In cPanel, go to "File Manager" and enter the root directory of your website (usually public_html).
 * Upload the previously exported .wpress file to the website's root directory.
 * Access your website's root directory through a browser, find the uploaded .wpress file, and click on it. Choose the "Import" option, and the plugin will start importing the local site to SiteGround.
+
 Step 4: Update WordPress Configuration
 * Open SiteGround's cPanel, and find "File Manager."
 * Enter the website's root directory, locate wp-config.php, right-click, and choose "Edit."
