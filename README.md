@@ -99,6 +99,31 @@ Step 4: Update WordPress Configuration
 
 We considered a lot of software when choosing hosting, such as siteground and bluehost. In the end, we chose the former. Later, I will compare them in detail and summarize them in the end.
 
+1.000WebHost:
+Pros:
+Free Plan: 000WebHost offers a free hosting plan, suitable for startups and personal websites.
+User-Friendly: The interface is simple, making it suitable for beginners.
+Cons:
+Limited Performance: The free plan may have performance limitations, not suitable for large or high-traffic websites.
+Advertisements: The free plan may include advertisements.
+
+2.SiteGround:
+Pros:
+Performance: Provides high-performance shared hosting, suitable for small to medium-sized websites.
+Customer Service: Known for excellent customer service and technical support.
+Security: Offers advanced security features, including free SSL certificates.
+Cons:
+Relatively Higher Price: SiteGround's pricing may be higher compared to other shared hosting providers.
+Traffic Limits: Some lower-tier shared hosting plans may have limits on monthly data transfer.
+
+3.Bluehost:
+Pros:
+User-Friendly: Provides a user-friendly control panel and installation process, suitable for beginners.
+Integration: Well-integrated with WordPress and is one of the recommended hosting providers by WordPress.
+Free Domain: Some plans offer a free domain registration.
+Cons:
+Performance: May not excel in performance compared to some performance-focused competitors.
+Price: Some services may be relatively expensive, especially during renewal.
 
 SiteGround: SiteGround is renowned for its high-speed performance, utilizing SSD storage, NGINX server technology, and the SuperCacher caching system.
 Bluehost: Bluehost also provides good performance, but SiteGround is often considered more outstanding in this regard.
