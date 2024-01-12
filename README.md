@@ -22,8 +22,6 @@ Installation
 * WordPress 6.4.2
 * Visual Studio Code
 * Oracle VM VirtualBox VVV v.3.12
-![vvv](https://github.com/Liu1xuan/CP3402-a2-2023-PBGroup5/blob/main/Screenshot%20for%20A2/vvv_xampp.png)
-![vvv](https://github.com/Liu1xuan/CP3402-a2-2023-PBGroup5/blob/main/Screenshot%20for%20A2/vvv.png)
 
 ### Setup:
 
@@ -57,6 +55,10 @@ Additional custom templates and partials are included within the theme directory
 3. Test Changes: Extensively test your modifications in the neighborhood.
 4. Commit: Every change must be committed to tell others what has been changed to improve work efficiency.
 5. Push: Push your all the things to the remote repository.
+6. We used VVV be our enbironment to test and set our projects.
+
+![vvv](https://github.com/Liu1xuan/CP3402-a2-2023-PBGroup5/blob/main/Screenshot%20for%20A2/vvv_xampp.png)
+![vvv](https://github.com/Liu1xuan/CP3402-a2-2023-PBGroup5/blob/main/Screenshot%20for%20A2/vvv.png)
 
 ### Deployment
 
