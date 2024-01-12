@@ -73,14 +73,49 @@ Additional custom templates and partials are included within the theme directory
 * Increase open house attendance rate: 10%
 
 ### Deployment
+
+We considered a lot of software when choosing hosting, such as siteground and bluehost. In the end, we chose the former. Later, I will compare them in detail and summarize them in the end.
+
+
+SiteGround: SiteGround is renowned for its high-speed performance, utilizing SSD storage, NGINX server technology, and the SuperCacher caching system.
+Bluehost: Bluehost also provides good performance, but SiteGround is often considered more outstanding in this regard.
+Price:
+
+
+SiteGround: SiteGround's pricing is relatively higher, but it offers high-quality services.
+Bluehost: Bluehost is generally more competitively priced, especially for startups.
+Features:
+
+
+SiteGround: SiteGround offers many advanced features, including automated backups, free SSL certificates, Content Delivery Network (CDN), and WordPress-specific optimizations.
+Bluehost: Bluehost provides similar features, including free SSL certificates and built-in CDN, but some advanced features may be part of higher-tier plans.
+Customer Support:
+
+
+SiteGround: SiteGround is known for its excellent customer support, offering 24/7 live chat, email, and phone support.
+Bluehost: Bluehost also offers 24/7 support, but some users consider SiteGround's support to be more responsive and professional.
+Server Locations:
+
+
+SiteGround: SiteGround has multiple data centers, allowing users to choose the geographical location of their website.
+Bluehost: Bluehost also has multiple data centers, but the choices may be relatively limited.
+Target Audience:
+
+
+SiteGround: SiteGround is suitable for various websites, from small blogs to large enterprise sites.
+Bluehost: Bluehost is widely used, particularly suitable for startups and personal websites.
 Hosting Site: Siteground
 The advantages of SiteGround include:
 
+
 High-performance server configuration: SiteGround uses Google Cloud servers, distributed SSD storage, NGINX, and HTTP/2. It can deliver static content directly and has deployed seven data centers and CDN acceleration services on four continents. Its unique SuperCacher has three levels of cache acceleration, and its self-developed optimization plug-in can maximize Google’s website speed score. It has always provided the top speed technology, such as the latest PHP version, the fastest compression algorithm Brotli, which can significantly reduce the first byte time TTFB, and improve the overall website loading speed, especially suitable for cross-border foreign trade independent stations1.
+
 
 Easy-to-use website control panel: SiteGround’s control panel is very suitable for novice foreign trade website construction. You don’t need to configure the server environment or upload source code. Just click a few times to install popular website building systems such as WordPress, Magento, and WooCommerce. After the website building system is installed, it has a novice guide and provides dozens of free themes and a series of free plug-ins, which can help you build a beautiful B2B/B2C website in the fastest time. In addition to website building, it also provides many additional functions, such as domain name management, free email, free SSL certificate, free CDN, free website optimization, free website migration. Everything you can think of, it has it all1.
 
+
 World-class customer service support: SiteGround’s customer service is world-class. You can choose phone or instant chat. The response speed is almost instant, and the professionalism is bursting. Other hosts either do not have this service or need to wait for a few minutes or tens of minutes. Ticket support usually responds within 10 minutes. If you don’t know how to install WordPress, move the website, or have any technical problems, you can find customer service. They are knowledgeable and very patient. It provides a 30-day unconditional refund. If you are not satisfied, you can refund at any time1.
+
 
 The disadvantages of SiteGround include:
 
