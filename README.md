@@ -86,6 +86,8 @@ Step 4: Update WordPress Configuration
 * Update the database name, username, and password to match the ones you created in Step 3.
 * Save and close the file.
 
+![vvv](https://github.com/Liu1xuan/CP3402-a2-2023-PBGroup5/blob/main/Screenshot%20for%20A2/plugin.png)
+
 ### Project Documentation
 ---------------
 
