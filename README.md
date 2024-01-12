@@ -161,6 +161,47 @@ Because we had a student account, a six-month free trial period, and the conveni
 ------------------------------------------------------------------------------------------
 Trello -> Slack -> XAMPP -> Wordpress -> VSCode -> Github -> Staging -> Siteground 
 
+1.Project Management: Trello
+* Create a Trello board for project management.
+* Create lists on the board, such as Backlog, In Progress, Testing, Completed, etc., to track the status of tasks.
+* Add cards with tasks, including required features and fixes.
+
+2.Communication and Collaboration: Slack
+* Integrate Slack with Trello for communication between Trello cards and Slack.
+* Create Slack channels for project discussions, progress updates, and team collaboration.
+* Set up notifications to display important changes made on Trello within Slack.
+
+3.Local Development Environment: XAMPP, WordPress, VSCode
+* Set up a local WordPress development environment using XAMPP.
+* Open the WordPress project in VSCode and edit code.
+* Start the local server through XAMPP to view and test local changes.
+
+4.Version Control and Collaboration: GitHub
+* Initialize the WordPress project as a Git repository.
+* Create a GitHub repository and push the local Git repository to GitHub.
+* Create branches on the GitHub repository for different features or tasks.
+
+5.Development and Merging: VSCode, GitHub
+* Create, edit, and test code changes on feature branches in VSCode.
+* Commit changes to the relevant GitHub branch.
+* Request code reviews for team collaboration.
+* Ensure successful testing before merging branches into the main branch.
+
+6.Deploy to Staging Environment
+* Set up a Staging server, which could be SiteGround or another hosting provider.
+* Deploy the code from the GitHub main branch to the Staging environment for final testing and validation.
+
+7.Testing and Bug Fixing: Staging
+* Conduct functional and performance testing in the Staging environment.
+* If issues arise, create Trello cards and notify the team.
+* Make necessary fixes, commit to the GitHub main branch, and redeploy to Staging.
+
+8.Go Live to the Live Site
+* Periodically deploy the code from Staging to the Live Site to ensure synchronization with the latest code.
+* Notify the team in the Slack channel, ensuring everyone is aware of new features and changes.
+* Monitor the Live Site and address any issues that may arise.
+* This workflow integrates various tools to facilitate team collaboration, development, testing, and deployment of a WordPress project. Each step corresponds to specific tools and communication channels to ensure a smooth process.
+
 ### Version Control (Screenshots)
 | Version 1 | Version 2 | Version 3 |
 |:----------------------:|:---------------------------:|:---------------------:|
