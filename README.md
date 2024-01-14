@@ -242,6 +242,12 @@ Trello -> Slack -> XAMPP -> Wordpress -> VSCode -> Github -> Staging -> Sitegrou
 | [Version 1](https://github.com/Liu1xuan/CP3402-a2-2023-PBGroup5/tree/main/Version%201) | [Version 2](https://github.com/Liu1xuan/CP3402-a2-2023-PBGroup5/tree/main/Version%202) | [Version 3](https://github.com/Liu1xuan/CP3402-a2-2023-PBGroup5/tree/main/Version%203) |
 ------------------------------------------------------------------------------------------
 
+### Live Demo
+![vvv](https://github.com/Liu1xuan/CP3402-a2-2023-PBGroup5/blob/main/Screenshot%20for%20A2/demo1-1.png)
+![vvv](https://github.com/Liu1xuan/CP3402-a2-2023-PBGroup5/blob/main/Screenshot%20for%20A2/demo1-2.png)
+![vvv](https://github.com/Liu1xuan/CP3402-a2-2023-PBGroup5/blob/main/Screenshot%20for%20A2/demo2-1.png)
+![vvv](https://github.com/Liu1xuan/CP3402-a2-2023-PBGroup5/blob/main/Screenshot%20for%20A2/demo2-2.png)
+* Changes to the local code can change the theme description in real time.
   
 ### Team Management Links
 * [GitHub](https://github.com/Liu1xuan/CP3402-a2-2023-PBGroup5) 
